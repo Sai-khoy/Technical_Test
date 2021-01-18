@@ -1,5 +1,5 @@
 --Question 1
---Anlayse the data provided by BCML Supplier address was corrected as for same supplier name, the address was wrongly written.
+--Anlayse the data provided by BCM Supplier address was corrected as for same supplier name, the address was wrongly written.
 
 -- Question 2
 
